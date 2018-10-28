@@ -1,0 +1,876 @@
+HEADER    ISOMERASE(INTRAMOLECULAR ALDOSE/KETOSE) 01-AUG-77   1PGI              
+TITLE     CRYSTALLOGRAPHIC STRUCTURE ANALYSIS OF GLUCOSE 6-PHOSPHATE            
+TITLE    2 ISOMERASE AT 3.5 ANGSTROMS RESOLUTION                                
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: D-GLUCOSE 6-PHOSPHATE ISOMERASE;                           
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 EC: 5.3.1.9;                                                         
+COMPND   5 ENGINEERED: YES                                                      
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 ORGANISM_SCIENTIFIC: SUS SCROFA;                                     
+SOURCE   3 ORGANISM_COMMON: PIG;                                                
+SOURCE   4 ORGANISM_TAXID: 9823;                                                
+SOURCE   5 TISSUE: MUSCLE                                                       
+KEYWDS    ISOMERASE(INTRAMOLECULAR ALDOSE/KETOSE)                               
+EXPDTA    X-RAY DIFFRACTION                                                     
+MDLTYP    CA ATOMS ONLY, CHAIN A                                                
+AUTHOR    H.MUIRHEAD                                                            
+REVDAT   8   25-AUG-09 1PGI    1       SOURCE                                   
+REVDAT   7   24-FEB-09 1PGI    1       VERSN                                    
+REVDAT   6   01-APR-03 1PGI    1       JRNL                                     
+REVDAT   5   17-FEB-84 1PGI    1       REMARK                                   
+REVDAT   4   30-SEP-83 1PGI    1       REVDAT                                   
+REVDAT   3   13-OCT-81 1PGI    1       REMARK                                   
+REVDAT   2   31-DEC-80 1PGI    1       REMARK                                   
+REVDAT   1   23-SEP-77 1PGI    0                                                
+JRNL        AUTH   P.J.SHAW,H.MUIRHEAD                                          
+JRNL        TITL   CRYSTALLOGRAPHIC STRUCTURE ANALYSIS OF GLUCOSE               
+JRNL        TITL 2 6-PHOSPHATE ISOMERASE AT 3-5 A RESOLUTION.                   
+JRNL        REF    J.MOL.BIOL.                   V. 109   475 1977              
+JRNL        REFN                   ISSN 0022-2836                               
+JRNL        PMID   833853                                                       
+JRNL        DOI    10.1016/S0022-2836(77)80025-9                                
+REMARK   1                                                                      
+REMARK   1 REFERENCE 1                                                          
+REMARK   1  AUTH   A.ACHARI,S.E.MARSHALL,H.MUIRHEAD,R.H.PALMIERI,               
+REMARK   1  AUTH 2 E.A.NOLTMANN                                                 
+REMARK   1  TITL   GLUCOSE-6-PHOSPHATE ISOMERASE                                
+REMARK   1  REF    PHILOS.TRANS.R.SOC.LONDON,    V. 293   145 1981              
+REMARK   1  REF  2 SER.B                                                        
+REMARK   1  REFN                   ISSN 0080-4622                               
+REMARK   1 REFERENCE 2                                                          
+REMARK   1  AUTH   P.J.SHAW,H.MUIRHEAD                                          
+REMARK   1  TITL   THE ACTIVE SITE OF GLUCOSE PHOSPHATE ISOMERASE               
+REMARK   1  REF    FEBS LETT.                    V.  65    50 1976              
+REMARK   1  REFN                   ISSN 0014-5793                               
+REMARK   1 REFERENCE 3                                                          
+REMARK   1  AUTH   H.MUIRHEAD,P.J.SHAW                                          
+REMARK   1  TITL   THREE-DIMENSIONAL STRUCTURE OF PIG MUSCLE                    
+REMARK   1  TITL 2 PHOSPHOGLUCOSE ISOMERASE AT 6 ANGSTROMS RESOLUTION           
+REMARK   1  REF    J.MOL.BIOL.                   V.  89   195 1974              
+REMARK   1  REFN                   ISSN 0022-2836                               
+REMARK   2                                                                      
+REMARK   2 RESOLUTION.    3.50 ANGSTROMS.                                       
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   PROGRAM     : NULL                                                 
+REMARK   3   AUTHORS     : NULL                                                 
+REMARK   3                                                                      
+REMARK   3  DATA USED IN REFINEMENT.                                            
+REMARK   3   RESOLUTION RANGE HIGH (ANGSTROMS) : 3.50                           
+REMARK   3   RESOLUTION RANGE LOW  (ANGSTROMS) : NULL                           
+REMARK   3   DATA CUTOFF            (SIGMA(F)) : NULL                           
+REMARK   3   DATA CUTOFF HIGH         (ABS(F)) : NULL                           
+REMARK   3   DATA CUTOFF LOW          (ABS(F)) : NULL                           
+REMARK   3   COMPLETENESS (WORKING+TEST)   (%) : NULL                           
+REMARK   3   NUMBER OF REFLECTIONS             : NULL                           
+REMARK   3                                                                      
+REMARK   3  FIT TO DATA USED IN REFINEMENT.                                     
+REMARK   3   CROSS-VALIDATION METHOD          : NULL                            
+REMARK   3   FREE R VALUE TEST SET SELECTION  : NULL                            
+REMARK   3   R VALUE            (WORKING SET) : NULL                            
+REMARK   3   FREE R VALUE                     : NULL                            
+REMARK   3   FREE R VALUE TEST SET SIZE   (%) : NULL                            
+REMARK   3   FREE R VALUE TEST SET COUNT      : NULL                            
+REMARK   3   ESTIMATED ERROR OF FREE R VALUE  : NULL                            
+REMARK   3                                                                      
+REMARK   3  FIT IN THE HIGHEST RESOLUTION BIN.                                  
+REMARK   3   TOTAL NUMBER OF BINS USED           : NULL                         
+REMARK   3   BIN RESOLUTION RANGE HIGH       (A) : NULL                         
+REMARK   3   BIN RESOLUTION RANGE LOW        (A) : NULL                         
+REMARK   3   BIN COMPLETENESS (WORKING+TEST) (%) : NULL                         
+REMARK   3   REFLECTIONS IN BIN    (WORKING SET) : NULL                         
+REMARK   3   BIN R VALUE           (WORKING SET) : NULL                         
+REMARK   3   BIN FREE R VALUE                    : NULL                         
+REMARK   3   BIN FREE R VALUE TEST SET SIZE  (%) : NULL                         
+REMARK   3   BIN FREE R VALUE TEST SET COUNT     : NULL                         
+REMARK   3   ESTIMATED ERROR OF BIN FREE R VALUE : NULL                         
+REMARK   3                                                                      
+REMARK   3  NUMBER OF NON-HYDROGEN ATOMS USED IN REFINEMENT.                    
+REMARK   3   PROTEIN ATOMS            : 514                                     
+REMARK   3   NUCLEIC ACID ATOMS       : 0                                       
+REMARK   3   HETEROGEN ATOMS          : 0                                       
+REMARK   3   SOLVENT ATOMS            : 0                                       
+REMARK   3                                                                      
+REMARK   3  B VALUES.                                                           
+REMARK   3   FROM WILSON PLOT           (A**2) : NULL                           
+REMARK   3   MEAN B VALUE      (OVERALL, A**2) : NULL                           
+REMARK   3   OVERALL ANISOTROPIC B VALUE.                                       
+REMARK   3    B11 (A**2) : NULL                                                 
+REMARK   3    B22 (A**2) : NULL                                                 
+REMARK   3    B33 (A**2) : NULL                                                 
+REMARK   3    B12 (A**2) : NULL                                                 
+REMARK   3    B13 (A**2) : NULL                                                 
+REMARK   3    B23 (A**2) : NULL                                                 
+REMARK   3                                                                      
+REMARK   3  ESTIMATED COORDINATE ERROR.                                         
+REMARK   3   ESD FROM LUZZATI PLOT        (A) : NULL                            
+REMARK   3   ESD FROM SIGMAA              (A) : NULL                            
+REMARK   3   LOW RESOLUTION CUTOFF        (A) : NULL                            
+REMARK   3                                                                      
+REMARK   3  CROSS-VALIDATED ESTIMATED COORDINATE ERROR.                         
+REMARK   3   ESD FROM C-V LUZZATI PLOT    (A) : NULL                            
+REMARK   3   ESD FROM C-V SIGMAA          (A) : NULL                            
+REMARK   3                                                                      
+REMARK   3  RMS DEVIATIONS FROM IDEAL VALUES.                                   
+REMARK   3   BOND LENGTHS                 (A) : NULL                            
+REMARK   3   BOND ANGLES            (DEGREES) : NULL                            
+REMARK   3   DIHEDRAL ANGLES        (DEGREES) : NULL                            
+REMARK   3   IMPROPER ANGLES        (DEGREES) : NULL                            
+REMARK   3                                                                      
+REMARK   3  ISOTROPIC THERMAL MODEL : NULL                                      
+REMARK   3                                                                      
+REMARK   3  ISOTROPIC THERMAL FACTOR RESTRAINTS.    RMS    SIGMA                
+REMARK   3   MAIN-CHAIN BOND              (A**2) : NULL  ; NULL                 
+REMARK   3   MAIN-CHAIN ANGLE             (A**2) : NULL  ; NULL                 
+REMARK   3   SIDE-CHAIN BOND              (A**2) : NULL  ; NULL                 
+REMARK   3   SIDE-CHAIN ANGLE             (A**2) : NULL  ; NULL                 
+REMARK   3                                                                      
+REMARK   3  NCS MODEL : NULL                                                    
+REMARK   3                                                                      
+REMARK   3  NCS RESTRAINTS.                         RMS   SIGMA/WEIGHT          
+REMARK   3   GROUP  1  POSITIONAL            (A) : NULL  ; NULL                 
+REMARK   3   GROUP  1  B-FACTOR           (A**2) : NULL  ; NULL                 
+REMARK   3                                                                      
+REMARK   3  PARAMETER FILE  1  : NULL                                           
+REMARK   3  TOPOLOGY FILE  1   : NULL                                           
+REMARK   3                                                                      
+REMARK   3  OTHER REFINEMENT REMARKS: NULL                                      
+REMARK   4                                                                      
+REMARK   4 1PGI COMPLIES WITH FORMAT V. 3.15, 01-DEC-08                         
+REMARK 100                                                                      
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY BNL.                                
+REMARK 200                                                                      
+REMARK 200 EXPERIMENTAL DETAILS                                                 
+REMARK 200  EXPERIMENT TYPE                : X-RAY DIFFRACTION                  
+REMARK 200  DATE OF DATA COLLECTION        : NULL                               
+REMARK 200  TEMPERATURE           (KELVIN) : NULL                               
+REMARK 200  PH                             : NULL                               
+REMARK 200  NUMBER OF CRYSTALS USED        : NULL                               
+REMARK 200                                                                      
+REMARK 200  SYNCHROTRON              (Y/N) : NULL                               
+REMARK 200  RADIATION SOURCE               : NULL                               
+REMARK 200  BEAMLINE                       : NULL                               
+REMARK 200  X-RAY GENERATOR MODEL          : NULL                               
+REMARK 200  MONOCHROMATIC OR LAUE    (M/L) : NULL                               
+REMARK 200  WAVELENGTH OR RANGE        (A) : NULL                               
+REMARK 200  MONOCHROMATOR                  : NULL                               
+REMARK 200  OPTICS                         : NULL                               
+REMARK 200                                                                      
+REMARK 200  DETECTOR TYPE                  : NULL                               
+REMARK 200  DETECTOR MANUFACTURER          : NULL                               
+REMARK 200  INTENSITY-INTEGRATION SOFTWARE : NULL                               
+REMARK 200  DATA SCALING SOFTWARE          : NULL                               
+REMARK 200                                                                      
+REMARK 200  NUMBER OF UNIQUE REFLECTIONS   : NULL                               
+REMARK 200  RESOLUTION RANGE HIGH      (A) : NULL                               
+REMARK 200  RESOLUTION RANGE LOW       (A) : NULL                               
+REMARK 200  REJECTION CRITERIA  (SIGMA(I)) : NULL                               
+REMARK 200                                                                      
+REMARK 200 OVERALL.                                                             
+REMARK 200  COMPLETENESS FOR RANGE     (%) : NULL                               
+REMARK 200  DATA REDUNDANCY                : NULL                               
+REMARK 200  R MERGE                    (I) : NULL                               
+REMARK 200  R SYM                      (I) : NULL                               
+REMARK 200  <I/SIGMA(I)> FOR THE DATA SET  : NULL                               
+REMARK 200                                                                      
+REMARK 200 IN THE HIGHEST RESOLUTION SHELL.                                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE HIGH (A) : NULL                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE LOW  (A) : NULL                     
+REMARK 200  COMPLETENESS FOR SHELL     (%) : NULL                               
+REMARK 200  DATA REDUNDANCY IN SHELL       : NULL                               
+REMARK 200  R MERGE FOR SHELL          (I) : NULL                               
+REMARK 200  R SYM FOR SHELL            (I) : NULL                               
+REMARK 200  <I/SIGMA(I)> FOR SHELL         : NULL                               
+REMARK 200                                                                      
+REMARK 200 DIFFRACTION PROTOCOL: NULL                                           
+REMARK 200 METHOD USED TO DETERMINE THE STRUCTURE: NULL                         
+REMARK 200 SOFTWARE USED: NULL                                                  
+REMARK 200 STARTING MODEL: NULL                                                 
+REMARK 200                                                                      
+REMARK 200 REMARK: NULL                                                         
+REMARK 280                                                                      
+REMARK 280 CRYSTAL                                                              
+REMARK 280 SOLVENT CONTENT, VS   (%): 65.64                                     
+REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.58                     
+REMARK 280                                                                      
+REMARK 280 CRYSTALLIZATION CONDITIONS: NULL                                     
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY                                            
+REMARK 290 SYMMETRY OPERATORS FOR SPACE GROUP: P 43 21 2                        
+REMARK 290                                                                      
+REMARK 290      SYMOP   SYMMETRY                                                
+REMARK 290     NNNMMM   OPERATOR                                                
+REMARK 290       1555   X,Y,Z                                                   
+REMARK 290       2555   -X,-Y,Z+1/2                                             
+REMARK 290       3555   -Y+1/2,X+1/2,Z+3/4                                      
+REMARK 290       4555   Y+1/2,-X+1/2,Z+1/4                                      
+REMARK 290       5555   -X+1/2,Y+1/2,-Z+3/4                                     
+REMARK 290       6555   X+1/2,-Y+1/2,-Z+1/4                                     
+REMARK 290       7555   Y,X,-Z                                                  
+REMARK 290       8555   -Y,-X,-Z+1/2                                            
+REMARK 290                                                                      
+REMARK 290     WHERE NNN -> OPERATOR NUMBER                                     
+REMARK 290           MMM -> TRANSLATION VECTOR                                  
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY TRANSFORMATIONS                            
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+REMARK 290 RECORDS IN THIS ENTRY TO PRODUCE CRYSTALLOGRAPHICALLY                
+REMARK 290 RELATED MOLECULES.                                                   
+REMARK 290   SMTRY1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY1   2 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   2  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   2  0.000000  0.000000  1.000000       69.15000            
+REMARK 290   SMTRY1   3  0.000000 -1.000000  0.000000       47.60000            
+REMARK 290   SMTRY2   3  1.000000  0.000000  0.000000       47.60000            
+REMARK 290   SMTRY3   3  0.000000  0.000000  1.000000      103.72500            
+REMARK 290   SMTRY1   4  0.000000  1.000000  0.000000       47.60000            
+REMARK 290   SMTRY2   4 -1.000000  0.000000  0.000000       47.60000            
+REMARK 290   SMTRY3   4  0.000000  0.000000  1.000000       34.57500            
+REMARK 290   SMTRY1   5 -1.000000  0.000000  0.000000       47.60000            
+REMARK 290   SMTRY2   5  0.000000  1.000000  0.000000       47.60000            
+REMARK 290   SMTRY3   5  0.000000  0.000000 -1.000000      103.72500            
+REMARK 290   SMTRY1   6  1.000000  0.000000  0.000000       47.60000            
+REMARK 290   SMTRY2   6  0.000000 -1.000000  0.000000       47.60000            
+REMARK 290   SMTRY3   6  0.000000  0.000000 -1.000000       34.57500            
+REMARK 290   SMTRY1   7  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   7  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   7  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290   SMTRY1   8  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   8 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   8  0.000000  0.000000 -1.000000       69.15000            
+REMARK 290                                                                      
+REMARK 290 REMARK: NULL                                                         
+REMARK 300                                                                      
+REMARK 300 BIOMOLECULE: 1                                                       
+REMARK 300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM                
+REMARK 300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN                  
+REMARK 300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON               
+REMARK 300 BURIED SURFACE AREA.                                                 
+REMARK 350                                                                      
+REMARK 350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN           
+REMARK 350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE                
+REMARK 350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS          
+REMARK 350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND                          
+REMARK 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.                               
+REMARK 350                                                                      
+REMARK 350 BIOMOLECULE: 1                                                       
+REMARK 350 AUTHOR DETERMINED BIOLOGICAL UNIT: MONOMERIC                         
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A                                     
+REMARK 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: CLOSE CONTACTS                                             
+REMARK 500                                                                      
+REMARK 500 THE FOLLOWING ATOMS THAT ARE RELATED BY CRYSTALLOGRAPHIC             
+REMARK 500 SYMMETRY ARE IN CLOSE CONTACT.  AN ATOM LOCATED WITHIN 0.15          
+REMARK 500 ANGSTROMS OF A SYMMETRY RELATED ATOM IS ASSUMED TO BE ON A           
+REMARK 500 SPECIAL POSITION AND IS, THEREFORE, LISTED IN REMARK 375             
+REMARK 500 INSTEAD OF REMARK 500.  ATOMS WITH NON-BLANK ALTERNATE               
+REMARK 500 LOCATION INDICATORS ARE NOT INCLUDED IN THE CALCULATIONS.            
+REMARK 500                                                                      
+REMARK 500 DISTANCE CUTOFF:                                                     
+REMARK 500 2.2 ANGSTROMS FOR CONTACTS NOT INVOLVING HYDROGEN ATOMS              
+REMARK 500 1.6 ANGSTROMS FOR CONTACTS INVOLVING HYDROGEN ATOMS                  
+REMARK 500                                                                      
+REMARK 500  ATM1  RES C  SSEQI   ATM2  RES C  SSEQI  SSYMOP   DISTANCE          
+REMARK 500   CA   UNK A    90     CA   UNK A    90     8665     0.80            
+REMARK 500   CA   UNK A    86     CA   UNK A   103     8665     1.27            
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+DBREF  1PGI A    1   514  PDB    1PGI     1PGI             1    514             
+SEQRES   1 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES   2 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES   3 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES   4 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES   5 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES   6 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES   7 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES   8 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES   9 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  10 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  11 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  12 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  13 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  14 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  15 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  16 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  17 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  18 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  19 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  20 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  21 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  22 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  23 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  24 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  25 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  26 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  27 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  28 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  29 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  30 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  31 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  32 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  33 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  34 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  35 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  36 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  37 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  38 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  39 A  514  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES  40 A  514  UNK UNK UNK UNK UNK UNK UNK                                  
+HELIX    1  A1 UNK A    4  UNK A   10  1                                   7    
+HELIX    2  A2 UNK A   42  UNK A   53  1                                  12    
+HELIX    3  A3 UNK A   73  UNK A   82  1                                  10    
+HELIX    4  A4 UNK A   99  UNK A  105  1                                   7    
+HELIX    5  A5 UNK A  127  UNK A  142  1                                  16    
+HELIX    6  A6 UNK A  186  UNK A  205  1                                  20    
+HELIX    7  A7 UNK A  223  UNK A  232  1                                  10    
+HELIX    8  A8 UNK A  241  UNK A  247  1                                   7    
+HELIX    9  A9 UNK A  263  UNK A  270  1                                   8    
+HELIX   10 A10 UNK A  300  UNK A  316  1                                  17    
+HELIX   11 A11 UNK A  342  UNK A  347  1                                   6    
+HELIX   12 A12 UNK A  367  UNK A  377  1                                  11    
+HELIX   13 A13 UNK A  400  UNK A  406  1                                   7    
+HELIX   14 A14 UNK A  431  UNK A  435  1                                   5    
+HELIX   15 A15 UNK A  442  UNK A  452  1                                  11    
+HELIX   16 A16 UNK A  472  UNK A  483  1                                  12    
+HELIX   17 A17 UNK A  491  UNK A  498  1                                   8    
+SHEET    1  S1 6 UNK A  90  UNK A  92  0                                        
+SHEET    2  S1 6 UNK A  63  UNK A  67  1                                        
+SHEET    3  S1 6 UNK A 112  UNK A 117  1                                        
+SHEET    4  S1 6 UNK A 172  UNK A 178  1                                        
+SHEET    5  S1 6 UNK A 459  UNK A 463  1                                        
+SHEET    6  S1 6 UNK A 253  UNK A 255  1                                        
+SHEET    1  S2 4 UNK A 331  UNK A 332  0                                        
+SHEET    2  S2 4 UNK A 353  UNK A 355  1                                        
+SHEET    3  S2 4 UNK A 391  UNK A 394  1                                        
+SHEET    4  S2 4 UNK A 412  UNK A 413  1                                        
+CRYST1   95.200   95.200  138.300  90.00  90.00  90.00 P 43 21 2     8          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.010504  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  0.010504  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.007231        0.00000                         
+ATOM      1  CA  UNK A   1      31.100  44.100  24.000  1.00  0.00           C  
+ATOM      2  CA  UNK A   2      34.800  45.200  24.100  1.00  0.00           C  
+ATOM      3  CA  UNK A   3      38.000  44.800  26.000  1.00  0.00           C  
+ATOM      4  CA  UNK A   4      35.400  43.500  28.400  1.00  0.00           C  
+ATOM      5  CA  UNK A   5      36.900  40.100  27.700  1.00  0.00           C  
+ATOM      6  CA  UNK A   6      40.100  40.700  29.600  1.00  0.00           C  
+ATOM      7  CA  UNK A   7      38.400  42.800  32.300  1.00  0.00           C  
+ATOM      8  CA  UNK A   8      36.500  39.900  33.900  1.00  0.00           C  
+ATOM      9  CA  UNK A   9      39.500  37.600  33.500  1.00  0.00           C  
+ATOM     10  CA  UNK A  10      42.200  39.200  35.600  1.00  0.00           C  
+ATOM     11  CA  UNK A  11      39.000  39.900  37.600  1.00  0.00           C  
+ATOM     12  CA  UNK A  12      40.200  37.400  40.200  1.00  0.00           C  
+ATOM     13  CA  UNK A  13      42.300  38.500  43.100  1.00  0.00           C  
+ATOM     14  CA  UNK A  14      43.700  35.300  44.600  1.00  0.00           C  
+ATOM     15  CA  UNK A  15      42.100  31.800  44.000  1.00  0.00           C  
+ATOM     16  CA  UNK A  16      41.700  28.100  44.300  1.00  0.00           C  
+ATOM     17  CA  UNK A  17      38.200  27.600  43.000  1.00  0.00           C  
+ATOM     18  CA  UNK A  18      37.000  31.200  42.700  1.00  0.00           C  
+ATOM     19  CA  UNK A  19      36.300  31.600  39.000  1.00  0.00           C  
+ATOM     20  CA  UNK A  20      36.800  28.200  37.500  1.00  0.00           C  
+ATOM     21  CA  UNK A  21      40.500  27.700  37.500  1.00  0.00           C  
+ATOM     22  CA  UNK A  22      41.400  24.400  39.200  1.00  0.00           C  
+ATOM     23  CA  UNK A  23      38.800  22.700  41.400  1.00  0.00           C  
+ATOM     24  CA  UNK A  24      35.200  23.300  40.500  1.00  0.00           C  
+ATOM     25  CA  UNK A  25      34.200  20.800  43.100  1.00  0.00           C  
+ATOM     26  CA  UNK A  26      37.200  18.800  44.400  1.00  0.00           C  
+ATOM     27  CA  UNK A  27      39.900  18.800  41.800  1.00  0.00           C  
+ATOM     28  CA  UNK A  28      39.600  18.100  38.100  1.00  0.00           C  
+ATOM     29  CA  UNK A  29      40.200  19.800  34.700  1.00  0.00           C  
+ATOM     30  CA  UNK A  30      40.000  17.200  31.900  1.00  0.00           C  
+ATOM     31  CA  UNK A  31      37.100  15.300  30.500  1.00  0.00           C  
+ATOM     32  CA  UNK A  32      35.300  18.200  28.900  1.00  0.00           C  
+ATOM     33  CA  UNK A  33      36.300  16.500  25.600  1.00  0.00           C  
+ATOM     34  CA  UNK A  34      34.800  13.200  26.700  1.00  0.00           C  
+ATOM     35  CA  UNK A  35      36.800  10.500  25.000  1.00  0.00           C  
+ATOM     36  CA  UNK A  36      38.900  11.800  22.200  1.00  0.00           C  
+ATOM     37  CA  UNK A  37      41.100  13.500  24.800  1.00  0.00           C  
+ATOM     38  CA  UNK A  38      44.700  12.600  24.300  1.00  0.00           C  
+ATOM     39  CA  UNK A  39      43.100  11.500  21.100  1.00  0.00           C  
+ATOM     40  CA  UNK A  40      43.700  15.000  19.900  1.00  0.00           C  
+ATOM     41  CA  UNK A  41      45.600  16.500  22.900  1.00  0.00           C  
+ATOM     42  CA  UNK A  42      45.700  20.100  24.300  1.00  0.00           C  
+ATOM     43  CA  UNK A  43      46.500  20.100  28.000  1.00  0.00           C  
+ATOM     44  CA  UNK A  44      48.400  17.000  26.800  1.00  0.00           C  
+ATOM     45  CA  UNK A  45      51.400  18.800  25.200  1.00  0.00           C  
+ATOM     46  CA  UNK A  46      50.400  22.500  28.100  1.00  0.00           C  
+ATOM     47  CA  UNK A  47      53.500  19.800  29.700  1.00  0.00           C  
+ATOM     48  CA  UNK A  48      55.400  17.000  28.000  1.00  0.00           C  
+ATOM     49  CA  UNK A  49      56.900  20.000  26.300  1.00  0.00           C  
+ATOM     50  CA  UNK A  50      57.600  21.600  29.700  1.00  0.00           C  
+ATOM     51  CA  UNK A  51      59.700  18.600  30.900  1.00  0.00           C  
+ATOM     52  CA  UNK A  52      61.900  17.900  28.000  1.00  0.00           C  
+ATOM     53  CA  UNK A  53      63.900  21.100  27.500  1.00  0.00           C  
+ATOM     54  CA  UNK A  54      65.300  22.500  30.700  1.00  0.00           C  
+ATOM     55  CA  UNK A  55      65.200  19.500  33.200  1.00  0.00           C  
+ATOM     56  CA  UNK A  56      64.200  16.300  31.500  1.00  0.00           C  
+ATOM     57  CA  UNK A  57      67.400  15.800  29.500  1.00  0.00           C  
+ATOM     58  CA  UNK A  58      69.400  18.800  28.200  1.00  0.00           C  
+ATOM     59  CA  UNK A  59      68.400  21.600  30.500  1.00  0.00           C  
+ATOM     60  CA  UNK A  60      65.500  22.100  32.900  1.00  0.00           C  
+ATOM     61  CA  UNK A  61      64.700  25.200  34.900  1.00  0.00           C  
+ATOM     62  CA  UNK A  62      61.800  27.000  33.200  1.00  0.00           C  
+ATOM     63  CA  UNK A  63      62.200  29.600  30.500  1.00  0.00           C  
+ATOM     64  CA  UNK A  64      58.800  30.400  29.100  1.00  0.00           C  
+ATOM     65  CA  UNK A  65      56.400  33.200  27.900  1.00  0.00           C  
+ATOM     66  CA  UNK A  66      53.200  33.800  26.000  1.00  0.00           C  
+ATOM     67  CA  UNK A  67      51.300  36.500  24.000  1.00  0.00           C  
+ATOM     68  CA  UNK A  68      47.500  36.700  24.700  1.00  0.00           C  
+ATOM     69  CA  UNK A  69      44.700  38.300  22.700  1.00  0.00           C  
+ATOM     70  CA  UNK A  70      43.600  41.600  24.200  1.00  0.00           C  
+ATOM     71  CA  UNK A  71      44.700  43.000  27.500  1.00  0.00           C  
+ATOM     72  CA  UNK A  72      44.200  39.300  28.100  1.00  0.00           C  
+ATOM     73  CA  UNK A  73      47.900  39.000  27.600  1.00  0.00           C  
+ATOM     74  CA  UNK A  74      49.100  40.400  30.900  1.00  0.00           C  
+ATOM     75  CA  UNK A  75      46.000  38.900  32.300  1.00  0.00           C  
+ATOM     76  CA  UNK A  76      46.900  35.400  31.300  1.00  0.00           C  
+ATOM     77  CA  UNK A  77      50.500  35.800  32.700  1.00  0.00           C  
+ATOM     78  CA  UNK A  78      49.300  36.700  36.200  1.00  0.00           C  
+ATOM     79  CA  UNK A  79      47.200  33.500  36.000  1.00  0.00           C  
+ATOM     80  CA  UNK A  80      50.100  31.400  34.800  1.00  0.00           C  
+ATOM     81  CA  UNK A  81      52.500  32.200  37.700  1.00  0.00           C  
+ATOM     82  CA  UNK A  82      50.100  33.000  40.500  1.00  0.00           C  
+ATOM     83  CA  UNK A  83      48.900  29.400  40.300  1.00  0.00           C  
+ATOM     84  CA  UNK A  84      52.400  28.200  41.300  1.00  0.00           C  
+ATOM     85  CA  UNK A  85      54.300  29.800  44.100  1.00  0.00           C  
+ATOM     86  CA  UNK A  86      57.600  27.800  43.900  1.00  0.00           C  
+ATOM     87  CA  UNK A  87      59.900  28.100  40.900  1.00  0.00           C  
+ATOM     88  CA  UNK A  88      59.300  27.800  37.100  1.00  0.00           C  
+ATOM     89  CA  UNK A  89      61.400  30.400  35.300  1.00  0.00           C  
+ATOM     90  CA  UNK A  90      61.000  34.000  34.200  1.00  0.00           C  
+ATOM     91  CA  UNK A  91      57.500  34.700  32.900  1.00  0.00           C  
+ATOM     92  CA  UNK A  92      56.500  37.700  30.900  1.00  0.00           C  
+ATOM     93  CA  UNK A  93      53.100  38.900  29.700  1.00  0.00           C  
+ATOM     94  CA  UNK A  94      51.400  41.200  27.200  1.00  0.00           C  
+ATOM     95  CA  UNK A  95      52.100  40.700  23.600  1.00  0.00           C  
+ATOM     96  CA  UNK A  96      54.700  42.500  21.400  1.00  0.00           C  
+ATOM     97  CA  UNK A  97      58.300  42.400  22.600  1.00  0.00           C  
+ATOM     98  CA  UNK A  98      61.900  43.200  21.900  1.00  0.00           C  
+ATOM     99  CA  UNK A  99      63.300  42.600  25.400  1.00  0.00           C  
+ATOM    100  CA  UNK A 100      62.100  39.100  26.000  1.00  0.00           C  
+ATOM    101  CA  UNK A 101      63.300  37.800  22.600  1.00  0.00           C  
+ATOM    102  CA  UNK A 102      67.000  38.600  22.700  1.00  0.00           C  
+ATOM    103  CA  UNK A 103      66.700  37.500  26.300  1.00  0.00           C  
+ATOM    104  CA  UNK A 104      65.600  33.900  25.400  1.00  0.00           C  
+ATOM    105  CA  UNK A 105      68.100  33.400  22.600  1.00  0.00           C  
+ATOM    106  CA  UNK A 106      71.100  34.100  24.800  1.00  0.00           C  
+ATOM    107  CA  UNK A 107      70.600  31.700  27.700  1.00  0.00           C  
+ATOM    108  CA  UNK A 108      70.000  28.200  26.200  1.00  0.00           C  
+ATOM    109  CA  UNK A 109      66.700  27.700  24.400  1.00  0.00           C  
+ATOM    110  CA  UNK A 110      63.100  27.800  25.700  1.00  0.00           C  
+ATOM    111  CA  UNK A 111      59.400  27.700  24.800  1.00  0.00           C  
+ATOM    112  CA  UNK A 112      57.200  30.200  23.100  1.00  0.00           C  
+ATOM    113  CA  UNK A 113      53.500  30.700  22.000  1.00  0.00           C  
+ATOM    114  CA  UNK A 114      51.200  33.200  20.500  1.00  0.00           C  
+ATOM    115  CA  UNK A 115      47.400  33.400  21.000  1.00  0.00           C  
+ATOM    116  CA  UNK A 116      45.300  35.400  18.600  1.00  0.00           C  
+ATOM    117  CA  UNK A 117      41.500  35.400  18.100  1.00  0.00           C  
+ATOM    118  CA  UNK A 118      39.200  36.000  15.100  1.00  0.00           C  
+ATOM    119  CA  UNK A 119      36.600  38.700  15.700  1.00  0.00           C  
+ATOM    120  CA  UNK A 120      36.000  42.300  16.700  1.00  0.00           C  
+ATOM    121  CA  UNK A 121      37.700  45.400  15.300  1.00  0.00           C  
+ATOM    122  CA  UNK A 122      37.400  47.600  12.200  1.00  0.00           C  
+ATOM    123  CA  UNK A 123      39.300  50.600  10.900  1.00  0.00           C  
+ATOM    124  CA  UNK A 124      41.900  49.800   8.200  1.00  0.00           C  
+ATOM    125  CA  UNK A 125      43.200  46.300   7.900  1.00  0.00           C  
+ATOM    126  CA  UNK A 126      46.600  45.600   9.500  1.00  0.00           C  
+ATOM    127  CA  UNK A 127      44.500  46.100  12.700  1.00  0.00           C  
+ATOM    128  CA  UNK A 128      43.400  42.500  13.500  1.00  0.00           C  
+ATOM    129  CA  UNK A 129      45.200  41.300  10.400  1.00  0.00           C  
+ATOM    130  CA  UNK A 130      48.100  43.100  12.100  1.00  0.00           C  
+ATOM    131  CA  UNK A 131      48.200  40.800  15.100  1.00  0.00           C  
+ATOM    132  CA  UNK A 132      47.500  37.400  13.400  1.00  0.00           C  
+ATOM    133  CA  UNK A 133      50.200  37.300  10.700  1.00  0.00           C  
+ATOM    134  CA  UNK A 134      52.400  39.000  13.300  1.00  0.00           C  
+ATOM    135  CA  UNK A 135      52.900  36.000  15.600  1.00  0.00           C  
+ATOM    136  CA  UNK A 136      53.100  33.300  12.900  1.00  0.00           C  
+ATOM    137  CA  UNK A 137      56.000  34.300  10.800  1.00  0.00           C  
+ATOM    138  CA  UNK A 138      58.200  34.800  13.900  1.00  0.00           C  
+ATOM    139  CA  UNK A 139      57.200  31.400  15.200  1.00  0.00           C  
+ATOM    140  CA  UNK A 140      58.000  29.300  12.200  1.00  0.00           C  
+ATOM    141  CA  UNK A 141      61.300  31.200  12.000  1.00  0.00           C  
+ATOM    142  CA  UNK A 142      62.300  31.300  15.600  1.00  0.00           C  
+ATOM    143  CA  UNK A 143      62.800  27.800  14.100  1.00  0.00           C  
+ATOM    144  CA  UNK A 144      63.900  30.800  12.000  1.00  0.00           C  
+ATOM    145  CA  UNK A 145      66.800  32.600  10.300  1.00  0.00           C  
+ATOM    146  CA  UNK A 146      70.100  34.300  11.400  1.00  0.00           C  
+ATOM    147  CA  UNK A 147      73.600  33.500  10.100  1.00  0.00           C  
+ATOM    148  CA  UNK A 148      77.200  33.700   9.110  1.00  0.00           C  
+ATOM    149  CA  UNK A 149      75.100  34.200   6.000  1.00  0.00           C  
+ATOM    150  CA  UNK A 150      76.000  33.700   2.300  1.00  0.00           C  
+ATOM    151  CA  UNK A 151      78.400  36.500   1.500  1.00  0.00           C  
+ATOM    152  CA  UNK A 152      76.700  38.600   4.100  1.00  0.00           C  
+ATOM    153  CA  UNK A 153      74.000  38.300   1.500  1.00  0.00           C  
+ATOM    154  CA  UNK A 154      73.600  41.900   0.500  1.00  0.00           C  
+ATOM    155  CA  UNK A 155      74.300  43.300   3.900  1.00  0.00           C  
+ATOM    156  CA  UNK A 156      76.800  44.400   1.400  1.00  0.00           C  
+ATOM    157  CA  UNK A 157      75.300  47.800   0.500  1.00  0.00           C  
+ATOM    158  CA  UNK A 158      78.400  47.400   2.600  1.00  0.00           C  
+ATOM    159  CA  UNK A 159      81.700  45.600   3.300  1.00  0.00           C  
+ATOM    160  CA  UNK A 160      84.500  46.000   5.900  1.00  0.00           C  
+ATOM    161  CA  UNK A 161      85.900  43.900   8.800  1.00  0.00           C  
+ATOM    162  CA  UNK A 162      82.900  43.700  11.200  1.00  0.00           C  
+ATOM    163  CA  UNK A 163      79.400  44.000  12.500  1.00  0.00           C  
+ATOM    164  CA  UNK A 164      78.500  40.400  11.600  1.00  0.00           C  
+ATOM    165  CA  UNK A 165      79.700  38.200  14.400  1.00  0.00           C  
+ATOM    166  CA  UNK A 166      75.900  39.000  14.300  1.00  0.00           C  
+ATOM    167  CA  UNK A 167      72.800  36.900  14.200  1.00  0.00           C  
+ATOM    168  CA  UNK A 168      71.800  33.900  16.400  1.00  0.00           C  
+ATOM    169  CA  UNK A 169      69.500  31.400  18.100  1.00  0.00           C  
+ATOM    170  CA  UNK A 170      66.800  28.800  18.400  1.00  0.00           C  
+ATOM    171  CA  UNK A 171      63.500  27.100  19.300  1.00  0.00           C  
+ATOM    172  CA  UNK A 172      60.100  25.700  20.300  1.00  0.00           C  
+ATOM    173  CA  UNK A 173      56.800  26.800  18.900  1.00  0.00           C  
+ATOM    174  CA  UNK A 174      53.200  27.100  20.000  1.00  0.00           C  
+ATOM    175  CA  UNK A 175      50.000  28.300  18.200  1.00  0.00           C  
+ATOM    176  CA  UNK A 176      46.800  28.800  20.200  1.00  0.00           C  
+ATOM    177  CA  UNK A 177      44.200  29.800  17.600  1.00  0.00           C  
+ATOM    178  CA  UNK A 178      40.400  30.200  17.900  1.00  0.00           C  
+ATOM    179  CA  UNK A 179      37.600  30.600  15.300  1.00  0.00           C  
+ATOM    180  CA  UNK A 180      34.900  32.000  17.600  1.00  0.00           C  
+ATOM    181  CA  UNK A 181      36.500  34.900  19.500  1.00  0.00           C  
+ATOM    182  CA  UNK A 182      37.800  35.600  23.000  1.00  0.00           C  
+ATOM    183  CA  UNK A 183      35.500  36.800  25.700  1.00  0.00           C  
+ATOM    184  CA  UNK A 184      33.000  35.600  28.300  1.00  0.00           C  
+ATOM    185  CA  UNK A 185      32.700  32.200  26.800  1.00  0.00           C  
+ATOM    186  CA  UNK A 186      36.200  31.600  25.400  1.00  0.00           C  
+ATOM    187  CA  UNK A 187      37.800  33.000  28.500  1.00  0.00           C  
+ATOM    188  CA  UNK A 188      36.400  30.200  30.600  1.00  0.00           C  
+ATOM    189  CA  UNK A 189      37.200  27.600  28.000  1.00  0.00           C  
+ATOM    190  CA  UNK A 190      40.900  27.900  27.200  1.00  0.00           C  
+ATOM    191  CA  UNK A 191      41.300  28.500  30.900  1.00  0.00           C  
+ATOM    192  CA  UNK A 192      40.500  25.000  32.200  1.00  0.00           C  
+ATOM    193  CA  UNK A 193      42.200  23.100  29.400  1.00  0.00           C  
+ATOM    194  CA  UNK A 194      45.600  24.900  29.700  1.00  0.00           C  
+ATOM    195  CA  UNK A 195      45.500  24.600  33.500  1.00  0.00           C  
+ATOM    196  CA  UNK A 196      45.100  20.800  33.500  1.00  0.00           C  
+ATOM    197  CA  UNK A 197      47.900  20.100  31.100  1.00  0.00           C  
+ATOM    198  CA  UNK A 198      50.900  21.500  33.000  1.00  0.00           C  
+ATOM    199  CA  UNK A 199      49.900  20.400  36.500  1.00  0.00           C  
+ATOM    200  CA  UNK A 200      49.500  16.700  35.400  1.00  0.00           C  
+ATOM    201  CA  UNK A 201      52.900  16.400  33.700  1.00  0.00           C  
+ATOM    202  CA  UNK A 202      55.000  17.500  36.600  1.00  0.00           C  
+ATOM    203  CA  UNK A 203      53.000  14.900  38.500  1.00  0.00           C  
+ATOM    204  CA  UNK A 204      54.200  11.900  36.400  1.00  0.00           C  
+ATOM    205  CA  UNK A 205      57.700  13.200  36.100  1.00  0.00           C  
+ATOM    206  CA  UNK A 206      58.300  13.100  39.800  1.00  0.00           C  
+ATOM    207  CA  UNK A 207      55.700  11.200  41.900  1.00  0.00           C  
+ATOM    208  CA  UNK A 208      56.100  11.600  45.700  1.00  0.00           C  
+ATOM    209  CA  UNK A 209      57.200   8.800  48.000  1.00  0.00           C  
+ATOM    210  CA  UNK A 210      59.000   9.300  51.300  1.00  0.00           C  
+ATOM    211  CA  UNK A 211      60.700  12.500  50.400  1.00  0.00           C  
+ATOM    212  CA  UNK A 212      63.600  13.800  48.400  1.00  0.00           C  
+ATOM    213  CA  UNK A 213      62.100  14.900  45.100  1.00  0.00           C  
+ATOM    214  CA  UNK A 214      63.300  15.700  41.600  1.00  0.00           C  
+ATOM    215  CA  UNK A 215      66.600  14.100  40.600  1.00  0.00           C  
+ATOM    216  CA  UNK A 216      67.000  10.900  42.600  1.00  0.00           C  
+ATOM    217  CA  UNK A 217      66.500   8.000  40.100  1.00  0.00           C  
+ATOM    218  CA  UNK A 218      62.700   8.500  40.000  1.00  0.00           C  
+ATOM    219  CA  UNK A 219      59.700   7.000  41.800  1.00  0.00           C  
+ATOM    220  CA  UNK A 220      62.100   4.300  40.800  1.00  0.00           C  
+ATOM    221  CA  UNK A 221      63.800   4.300  37.300  1.00  0.00           C  
+ATOM    222  CA  UNK A 222      61.900   1.700  35.200  1.00  0.00           C  
+ATOM    223  CA  UNK A 223      60.300   2.400  31.900  1.00  0.00           C  
+ATOM    224  CA  UNK A 224      61.500   6.000  32.500  1.00  0.00           C  
+ATOM    225  CA  UNK A 225      65.300   5.700  32.900  1.00  0.00           C  
+ATOM    226  CA  UNK A 226      65.600   4.100  29.500  1.00  0.00           C  
+ATOM    227  CA  UNK A 227      63.500   6.800  27.900  1.00  0.00           C  
+ATOM    228  CA  UNK A 228      65.800   9.600  29.000  1.00  0.00           C  
+ATOM    229  CA  UNK A 229      69.000   7.600  28.100  1.00  0.00           C  
+ATOM    230  CA  UNK A 230      68.800   6.200  24.600  1.00  0.00           C  
+ATOM    231  CA  UNK A 231      66.900   9.500  24.000  1.00  0.00           C  
+ATOM    232  CA  UNK A 232      70.300  10.900  24.500  1.00  0.00           C  
+ATOM    233  CA  UNK A 233      73.200   9.000  22.900  1.00  0.00           C  
+ATOM    234  CA  UNK A 234      70.700   8.100  20.200  1.00  0.00           C  
+ATOM    235  CA  UNK A 235      70.200  11.800  20.300  1.00  0.00           C  
+ATOM    236  CA  UNK A 236      70.800  12.800  16.700  1.00  0.00           C  
+ATOM    237  CA  UNK A 237      68.000  15.500  16.800  1.00  0.00           C  
+ATOM    238  CA  UNK A 238      69.600  17.400  14.000  1.00  0.00           C  
+ATOM    239  CA  UNK A 239      67.400  20.100  12.400  1.00  0.00           C  
+ATOM    240  CA  UNK A 240      67.300  18.500   9.000  1.00  0.00           C  
+ATOM    241  CA  UNK A 241      65.100  16.100  11.100  1.00  0.00           C  
+ATOM    242  CA  UNK A 242      62.600  19.000  10.500  1.00  0.00           C  
+ATOM    243  CA  UNK A 243      62.500  18.700   6.800  1.00  0.00           C  
+ATOM    244  CA  UNK A 244      62.100  15.000   6.300  1.00  0.00           C  
+ATOM    245  CA  UNK A 245      59.400  14.800   9.100  1.00  0.00           C  
+ATOM    246  CA  UNK A 246      56.900  17.400   7.900  1.00  0.00           C  
+ATOM    247  CA  UNK A 247      56.600  16.300   4.300  1.00  0.00           C  
+ATOM    248  CA  UNK A 248      55.700  12.900   5.900  1.00  0.00           C  
+ATOM    249  CA  UNK A 249      54.100  16.200   6.600  1.00  0.00           C  
+ATOM    250  CA  UNK A 250      51.200  16.000   9.100  1.00  0.00           C  
+ATOM    251  CA  UNK A 251      51.400  14.500  12.600  1.00  0.00           C  
+ATOM    252  CA  UNK A 252      51.100  16.500  15.800  1.00  0.00           C  
+ATOM    253  CA  UNK A 253      47.900  18.100  14.800  1.00  0.00           C  
+ATOM    254  CA  UNK A 254      44.400  18.000  16.300  1.00  0.00           C  
+ATOM    255  CA  UNK A 255      41.000  19.300  15.200  1.00  0.00           C  
+ATOM    256  CA  UNK A 256      38.100  19.700  17.700  1.00  0.00           C  
+ATOM    257  CA  UNK A 257      34.700  21.100  16.900  1.00  0.00           C  
+ATOM    258  CA  UNK A 258      31.600  20.800  19.200  1.00  0.00           C  
+ATOM    259  CA  UNK A 259      34.200  20.100  21.800  1.00  0.00           C  
+ATOM    260  CA  UNK A 260      33.600  19.000  25.400  1.00  0.00           C  
+ATOM    261  CA  UNK A 261      31.200  20.000  28.200  1.00  0.00           C  
+ATOM    262  CA  UNK A 262      32.800  21.800  31.100  1.00  0.00           C  
+ATOM    263  CA  UNK A 263      34.200  25.100  30.200  1.00  0.00           C  
+ATOM    264  CA  UNK A 264      31.700  25.800  27.500  1.00  0.00           C  
+ATOM    265  CA  UNK A 265      28.800  25.200  30.000  1.00  0.00           C  
+ATOM    266  CA  UNK A 266      30.400  27.300  32.700  1.00  0.00           C  
+ATOM    267  CA  UNK A 267      31.200  30.300  30.400  1.00  0.00           C  
+ATOM    268  CA  UNK A 268      27.700  30.500  29.000  1.00  0.00           C  
+ATOM    269  CA  UNK A 269      25.800  31.000  32.200  1.00  0.00           C  
+ATOM    270  CA  UNK A 270      28.400  33.700  32.900  1.00  0.00           C  
+ATOM    271  CA  UNK A 271      27.500  35.900  30.000  1.00  0.00           C  
+ATOM    272  CA  UNK A 272      24.000  36.100  31.300  1.00  0.00           C  
+ATOM    273  CA  UNK A 273      25.700  37.900  34.300  1.00  0.00           C  
+ATOM    274  CA  UNK A 274      29.200  39.100  33.500  1.00  0.00           C  
+ATOM    275  CA  UNK A 275      31.100  38.800  36.700  1.00  0.00           C  
+ATOM    276  CA  UNK A 276      30.700  39.500  40.400  1.00  0.00           C  
+ATOM    277  CA  UNK A 277      31.000  37.000  43.300  1.00  0.00           C  
+ATOM    278  CA  UNK A 278      32.100  33.800  41.500  1.00  0.00           C  
+ATOM    279  CA  UNK A 279      34.200  32.900  44.500  1.00  0.00           C  
+ATOM    280  CA  UNK A 280      31.600  30.500  46.000  1.00  0.00           C  
+ATOM    281  CA  UNK A 281      28.800  31.800  43.800  1.00  0.00           C  
+ATOM    282  CA  UNK A 282      30.500  29.900  41.000  1.00  0.00           C  
+ATOM    283  CA  UNK A 283      32.000  26.400  41.200  1.00  0.00           C  
+ATOM    284  CA  UNK A 284      31.000  23.600  38.700  1.00  0.00           C  
+ATOM    285  CA  UNK A 285      27.700  23.800  36.800  1.00  0.00           C  
+ATOM    286  CA  UNK A 286      26.800  20.200  36.100  1.00  0.00           C  
+ATOM    287  CA  UNK A 287      23.600  21.100  34.400  1.00  0.00           C  
+ATOM    288  CA  UNK A 288      23.600  17.600  32.900  1.00  0.00           C  
+ATOM    289  CA  UNK A 289      22.700  15.600  36.000  1.00  0.00           C  
+ATOM    290  CA  UNK A 290      25.200  13.000  37.100  1.00  0.00           C  
+ATOM    291  CA  UNK A 291      24.700  12.000  40.700  1.00  0.00           C  
+ATOM    292  CA  UNK A 292      27.300  13.500  43.000  1.00  0.00           C  
+ATOM    293  CA  UNK A 293      28.400  13.500  46.700  1.00  0.00           C  
+ATOM    294  CA  UNK A 294      31.100  13.600  49.300  1.00  0.00           C  
+ATOM    295  CA  UNK A 295      29.700  10.900  51.600  1.00  0.00           C  
+ATOM    296  CA  UNK A 296      26.300  10.300  50.000  1.00  0.00           C  
+ATOM    297  CA  UNK A 297      24.300  13.200  48.600  1.00  0.00           C  
+ATOM    298  CA  UNK A 298      25.000  15.400  45.600  1.00  0.00           C  
+ATOM    299  CA  UNK A 299      27.500  18.200  45.500  1.00  0.00           C  
+ATOM    300  CA  UNK A 300      25.000  19.500  42.900  1.00  0.00           C  
+ATOM    301  CA  UNK A 301      22.500  20.200  45.700  1.00  0.00           C  
+ATOM    302  CA  UNK A 302      24.700  23.000  47.300  1.00  0.00           C  
+ATOM    303  CA  UNK A 303      25.500  24.500  43.900  1.00  0.00           C  
+ATOM    304  CA  UNK A 304      22.000  25.200  42.600  1.00  0.00           C  
+ATOM    305  CA  UNK A 305      20.400  27.000  45.600  1.00  0.00           C  
+ATOM    306  CA  UNK A 306      23.200  29.500  45.600  1.00  0.00           C  
+ATOM    307  CA  UNK A 307      23.000  30.000  41.800  1.00  0.00           C  
+ATOM    308  CA  UNK A 308      19.400  31.200  41.900  1.00  0.00           C  
+ATOM    309  CA  UNK A 309      20.400  33.900  44.400  1.00  0.00           C  
+ATOM    310  CA  UNK A 310      22.800  36.100  42.400  1.00  0.00           C  
+ATOM    311  CA  UNK A 311      20.600  35.900  39.400  1.00  0.00           C  
+ATOM    312  CA  UNK A 312      17.400  37.500  40.700  1.00  0.00           C  
+ATOM    313  CA  UNK A 313      19.200  40.100  42.900  1.00  0.00           C  
+ATOM    314  CA  UNK A 314      20.600  41.800  39.800  1.00  0.00           C  
+ATOM    315  CA  UNK A 315      17.300  41.700  37.900  1.00  0.00           C  
+ATOM    316  CA  UNK A 316      15.700  44.300  40.100  1.00  0.00           C  
+ATOM    317  CA  UNK A 317      19.000  46.200  40.100  1.00  0.00           C  
+ATOM    318  CA  UNK A 318      17.500  49.200  38.400  1.00  0.00           C  
+ATOM    319  CA  UNK A 319      14.700  49.200  41.000  1.00  0.00           C  
+ATOM    320  CA  UNK A 320      17.200  47.800  43.500  1.00  0.00           C  
+ATOM    321  CA  UNK A 321      18.800  51.100  44.500  1.00  0.00           C  
+ATOM    322  CA  UNK A 322      19.500  52.800  47.900  1.00  0.00           C  
+ATOM    323  CA  UNK A 323      17.100  55.200  49.700  1.00  0.00           C  
+ATOM    324  CA  UNK A 324      19.800  57.800  50.600  1.00  0.00           C  
+ATOM    325  CA  UNK A 325      19.800  59.700  47.400  1.00  0.00           C  
+ATOM    326  CA  UNK A 326      18.400  56.900  45.300  1.00  0.00           C  
+ATOM    327  CA  UNK A 327      19.900  54.600  42.700  1.00  0.00           C  
+ATOM    328  CA  UNK A 328      23.600  54.700  43.300  1.00  0.00           C  
+ATOM    329  CA  UNK A 329      26.400  53.500  41.000  1.00  0.00           C  
+ATOM    330  CA  UNK A 330      29.800  52.500  42.300  1.00  0.00           C  
+ATOM    331  CA  UNK A 331      31.800  49.300  42.000  1.00  0.00           C  
+ATOM    332  CA  UNK A 332      33.600  46.100  43.100  1.00  0.00           C  
+ATOM    333  CA  UNK A 333      36.800  44.600  44.400  1.00  0.00           C  
+ATOM    334  CA  UNK A 334      38.100  42.000  46.800  1.00  0.00           C  
+ATOM    335  CA  UNK A 335      40.400  43.100  49.600  1.00  0.00           C  
+ATOM    336  CA  UNK A 336      43.900  42.600  48.000  1.00  0.00           C  
+ATOM    337  CA  UNK A 337      47.200  44.400  47.700  1.00  0.00           C  
+ATOM    338  CA  UNK A 338      46.300  46.100  44.400  1.00  0.00           C  
+ATOM    339  CA  UNK A 339      43.700  48.900  44.700  1.00  0.00           C  
+ATOM    340  CA  UNK A 340      45.700  51.400  46.800  1.00  0.00           C  
+ATOM    341  CA  UNK A 341      43.400  52.800  49.500  1.00  0.00           C  
+ATOM    342  CA  UNK A 342      42.200  55.800  47.500  1.00  0.00           C  
+ATOM    343  CA  UNK A 343      39.800  53.300  46.000  1.00  0.00           C  
+ATOM    344  CA  UNK A 344      38.400  52.400  49.400  1.00  0.00           C  
+ATOM    345  CA  UNK A 345      37.500  55.900  50.400  1.00  0.00           C  
+ATOM    346  CA  UNK A 346      35.800  56.500  47.000  1.00  0.00           C  
+ATOM    347  CA  UNK A 347      33.200  53.800  47.400  1.00  0.00           C  
+ATOM    348  CA  UNK A 348      32.500  55.000  50.900  1.00  0.00           C  
+ATOM    349  CA  UNK A 349      29.000  56.500  51.300  1.00  0.00           C  
+ATOM    350  CA  UNK A 350      25.900  54.600  50.200  1.00  0.00           C  
+ATOM    351  CA  UNK A 351      26.100  54.600  46.400  1.00  0.00           C  
+ATOM    352  CA  UNK A 352      26.400  50.900  45.400  1.00  0.00           C  
+ATOM    353  CA  UNK A 353      29.200  48.500  46.300  1.00  0.00           C  
+ATOM    354  CA  UNK A 354      30.400  45.100  47.500  1.00  0.00           C  
+ATOM    355  CA  UNK A 355      33.100  42.400  47.800  1.00  0.00           C  
+ATOM    356  CA  UNK A 356      34.800  39.200  49.000  1.00  0.00           C  
+ATOM    357  CA  UNK A 357      38.100  37.800  50.200  1.00  0.00           C  
+ATOM    358  CA  UNK A 358      39.100  35.000  52.500  1.00  0.00           C  
+ATOM    359  CA  UNK A 359      38.700  31.200  52.800  1.00  0.00           C  
+ATOM    360  CA  UNK A 360      36.100  30.900  55.500  1.00  0.00           C  
+ATOM    361  CA  UNK A 361      36.700  33.500  58.200  1.00  0.00           C  
+ATOM    362  CA  UNK A 362      40.500  34.100  58.100  1.00  0.00           C  
+ATOM    363  CA  UNK A 363      43.100  35.400  55.600  1.00  0.00           C  
+ATOM    364  CA  UNK A 364      45.300  38.400  55.300  1.00  0.00           C  
+ATOM    365  CA  UNK A 365      43.300  41.000  53.400  1.00  0.00           C  
+ATOM    366  CA  UNK A 366      39.800  39.500  53.900  1.00  0.00           C  
+ATOM    367  CA  UNK A 367      39.100  40.800  57.400  1.00  0.00           C  
+ATOM    368  CA  UNK A 368      41.000  44.100  56.800  1.00  0.00           C  
+ATOM    369  CA  UNK A 369      38.800  44.600  53.700  1.00  0.00           C  
+ATOM    370  CA  UNK A 370      35.600  44.300  55.600  1.00  0.00           C  
+ATOM    371  CA  UNK A 371      36.600  46.900  58.100  1.00  0.00           C  
+ATOM    372  CA  UNK A 372      37.400  49.700  55.700  1.00  0.00           C  
+ATOM    373  CA  UNK A 373      34.200  49.500  53.700  1.00  0.00           C  
+ATOM    374  CA  UNK A 374      32.000  49.300  56.800  1.00  0.00           C  
+ATOM    375  CA  UNK A 375      33.300  52.300  58.600  1.00  0.00           C  
+ATOM    376  CA  UNK A 376      33.300  54.600  55.500  1.00  0.00           C  
+ATOM    377  CA  UNK A 377      29.500  54.300  54.900  1.00  0.00           C  
+ATOM    378  CA  UNK A 378      28.600  54.900  58.500  1.00  0.00           C  
+ATOM    379  CA  UNK A 379      27.000  57.900  56.800  1.00  0.00           C  
+ATOM    380  CA  UNK A 380      23.300  56.900  56.400  1.00  0.00           C  
+ATOM    381  CA  UNK A 381      22.900  55.200  59.700  1.00  0.00           C  
+ATOM    382  CA  UNK A 382      24.300  52.000  61.100  1.00  0.00           C  
+ATOM    383  CA  UNK A 383      23.800  48.200  61.600  1.00  0.00           C  
+ATOM    384  CA  UNK A 384      21.700  46.500  59.000  1.00  0.00           C  
+ATOM    385  CA  UNK A 385      22.600  49.100  56.500  1.00  0.00           C  
+ATOM    386  CA  UNK A 386      25.200  46.800  54.800  1.00  0.00           C  
+ATOM    387  CA  UNK A 387      22.300  44.400  54.400  1.00  0.00           C  
+ATOM    388  CA  UNK A 388      20.000  46.400  52.400  1.00  0.00           C  
+ATOM    389  CA  UNK A 389      22.400  48.600  50.100  1.00  0.00           C  
+ATOM    390  CA  UNK A 390      25.600  47.800  51.900  1.00  0.00           C  
+ATOM    391  CA  UNK A 391      26.200  44.000  51.600  1.00  0.00           C  
+ATOM    392  CA  UNK A 392      28.600  41.200  51.100  1.00  0.00           C  
+ATOM    393  CA  UNK A 393      28.800  37.400  51.300  1.00  0.00           C  
+ATOM    394  CA  UNK A 394      30.600  34.200  50.200  1.00  0.00           C  
+ATOM    395  CA  UNK A 395      30.300  30.600  51.500  1.00  0.00           C  
+ATOM    396  CA  UNK A 396      31.100  28.700  54.600  1.00  0.00           C  
+ATOM    397  CA  UNK A 397      31.600  29.200  58.400  1.00  0.00           C  
+ATOM    398  CA  UNK A 398      31.800  32.800  59.400  1.00  0.00           C  
+ATOM    399  CA  UNK A 399      29.600  33.900  62.400  1.00  0.00           C  
+ATOM    400  CA  UNK A 400      30.000  37.400  63.900  1.00  0.00           C  
+ATOM    401  CA  UNK A 401      31.600  39.500  61.100  1.00  0.00           C  
+ATOM    402  CA  UNK A 402      30.200  36.900  58.700  1.00  0.00           C  
+ATOM    403  CA  UNK A 403      26.800  37.200  60.300  1.00  0.00           C  
+ATOM    404  CA  UNK A 404      26.100  41.000  60.100  1.00  0.00           C  
+ATOM    405  CA  UNK A 405      27.300  41.300  56.500  1.00  0.00           C  
+ATOM    406  CA  UNK A 406      24.800  38.700  55.100  1.00  0.00           C  
+ATOM    407  CA  UNK A 407      21.800  39.100  57.300  1.00  0.00           C  
+ATOM    408  CA  UNK A 408      20.000  36.300  55.500  1.00  0.00           C  
+ATOM    409  CA  UNK A 409      20.000  35.900  51.700  1.00  0.00           C  
+ATOM    410  CA  UNK A 410      21.700  39.300  51.100  1.00  0.00           C  
+ATOM    411  CA  UNK A 411      25.000  37.600  50.200  1.00  0.00           C  
+ATOM    412  CA  UNK A 412      26.900  34.600  48.900  1.00  0.00           C  
+ATOM    413  CA  UNK A 413      28.600  31.600  50.300  1.00  0.00           C  
+ATOM    414  CA  UNK A 414      30.700  28.700  48.800  1.00  0.00           C  
+ATOM    415  CA  UNK A 415      32.400  25.600  50.200  1.00  0.00           C  
+ATOM    416  CA  UNK A 416      35.400  23.300  50.100  1.00  0.00           C  
+ATOM    417  CA  UNK A 417      34.200  19.700  50.000  1.00  0.00           C  
+ATOM    418  CA  UNK A 418      36.100  16.800  51.500  1.00  0.00           C  
+ATOM    419  CA  UNK A 419      39.900  16.200  51.400  1.00  0.00           C  
+ATOM    420  CA  UNK A 420      43.200  16.500  53.200  1.00  0.00           C  
+ATOM    421  CA  UNK A 421      43.500  20.100  52.000  1.00  0.00           C  
+ATOM    422  CA  UNK A 422      46.600  19.300  49.900  1.00  0.00           C  
+ATOM    423  CA  UNK A 423      46.500  16.600  47.300  1.00  0.00           C  
+ATOM    424  CA  UNK A 424      46.000  12.900  48.000  1.00  0.00           C  
+ATOM    425  CA  UNK A 425      42.900  11.800  49.900  1.00  0.00           C  
+ATOM    426  CA  UNK A 426      39.800  13.400  48.400  1.00  0.00           C  
+ATOM    427  CA  UNK A 427      36.400  12.200  47.200  1.00  0.00           C  
+ATOM    428  CA  UNK A 428      33.900  13.900  45.000  1.00  0.00           C  
+ATOM    429  CA  UNK A 429      34.100  14.000  41.200  1.00  0.00           C  
+ATOM    430  CA  UNK A 430      37.300  14.300  39.200  1.00  0.00           C  
+ATOM    431  CA  UNK A 431      39.900  12.800  41.500  1.00  0.00           C  
+ATOM    432  CA  UNK A 432      38.900   9.200  40.800  1.00  0.00           C  
+ATOM    433  CA  UNK A 433      39.500   9.100  37.100  1.00  0.00           C  
+ATOM    434  CA  UNK A 434      42.500  11.500  37.600  1.00  0.00           C  
+ATOM    435  CA  UNK A 435      44.800   9.100  39.300  1.00  0.00           C  
+ATOM    436  CA  UNK A 436      43.500   6.400  37.100  1.00  0.00           C  
+ATOM    437  CA  UNK A 437      46.100   5.900  34.300  1.00  0.00           C  
+ATOM    438  CA  UNK A 438      47.400   9.400  33.900  1.00  0.00           C  
+ATOM    439  CA  UNK A 439      49.400   8.400  36.900  1.00  0.00           C  
+ATOM    440  CA  UNK A 440      53.000   7.700  36.300  1.00  0.00           C  
+ATOM    441  CA  UNK A 441      52.000   5.600  33.200  1.00  0.00           C  
+ATOM    442  CA  UNK A 442      51.400   9.100  31.700  1.00  0.00           C  
+ATOM    443  CA  UNK A 443      55.100   9.800  32.100  1.00  0.00           C  
+ATOM    444  CA  UNK A 444      56.200   6.700  30.100  1.00  0.00           C  
+ATOM    445  CA  UNK A 445      53.600   7.200  27.500  1.00  0.00           C  
+ATOM    446  CA  UNK A 446      54.700  10.700  26.700  1.00  0.00           C  
+ATOM    447  CA  UNK A 447      58.400  10.000  26.200  1.00  0.00           C  
+ATOM    448  CA  UNK A 448      57.300   7.300  23.700  1.00  0.00           C  
+ATOM    449  CA  UNK A 449      54.900   9.400  21.700  1.00  0.00           C  
+ATOM    450  CA  UNK A 450      57.700  11.800  21.100  1.00  0.00           C  
+ATOM    451  CA  UNK A 451      60.300   9.400  19.600  1.00  0.00           C  
+ATOM    452  CA  UNK A 452      57.500   8.100  17.400  1.00  0.00           C  
+ATOM    453  CA  UNK A 453      57.600  11.400  15.600  1.00  0.00           C  
+ATOM    454  CA  UNK A 454      61.300  12.400  15.500  1.00  0.00           C  
+ATOM    455  CA  UNK A 455      61.300  14.800  18.400  1.00  0.00           C  
+ATOM    456  CA  UNK A 456      58.500  16.700  20.000  1.00  0.00           C  
+ATOM    457  CA  UNK A 457      57.700  20.500  20.400  1.00  0.00           C  
+ATOM    458  CA  UNK A 458      55.800  21.400  17.300  1.00  0.00           C  
+ATOM    459  CA  UNK A 459      52.000  21.400  17.700  1.00  0.00           C  
+ATOM    460  CA  UNK A 460      48.800  23.300  16.800  1.00  0.00           C  
+ATOM    461  CA  UNK A 461      45.200  23.000  18.200  1.00  0.00           C  
+ATOM    462  CA  UNK A 462      42.100  24.500  16.600  1.00  0.00           C  
+ATOM    463  CA  UNK A 463      38.700  24.900  18.300  1.00  0.00           C  
+ATOM    464  CA  UNK A 464      35.800  26.500  16.500  1.00  0.00           C  
+ATOM    465  CA  UNK A 465      32.700  28.100  18.000  1.00  0.00           C  
+ATOM    466  CA  UNK A 466      31.700  29.500  14.600  1.00  0.00           C  
+ATOM    467  CA  UNK A 467      33.100  32.300  12.400  1.00  0.00           C  
+ATOM    468  CA  UNK A 468      32.700  31.300   8.800  1.00  0.00           C  
+ATOM    469  CA  UNK A 469      34.400  34.500   7.700  1.00  0.00           C  
+ATOM    470  CA  UNK A 470      37.000  35.500  10.400  1.00  0.00           C  
+ATOM    471  CA  UNK A 471      37.400  32.100  11.900  1.00  0.00           C  
+ATOM    472  CA  UNK A 472      37.200  30.400   8.400  1.00  0.00           C  
+ATOM    473  CA  UNK A 473      39.800  33.100   7.500  1.00  0.00           C  
+ATOM    474  CA  UNK A 474      42.400  32.500  10.200  1.00  0.00           C  
+ATOM    475  CA  UNK A 475      42.700  28.800  10.300  1.00  0.00           C  
+ATOM    476  CA  UNK A 476      43.300  28.700   6.500  1.00  0.00           C  
+ATOM    477  CA  UNK A 477      46.300  31.100   6.800  1.00  0.00           C  
+ATOM    478  CA  UNK A 478      47.900  29.800  10.000  1.00  0.00           C  
+ATOM    479  CA  UNK A 479      48.700  26.500   8.300  1.00  0.00           C  
+ATOM    480  CA  UNK A 480      49.800  27.500   4.800  1.00  0.00           C  
+ATOM    481  CA  UNK A 481      52.300  29.800   6.600  1.00  0.00           C  
+ATOM    482  CA  UNK A 482      54.200  27.400   8.800  1.00  0.00           C  
+ATOM    483  CA  UNK A 483      54.500  25.100   5.800  1.00  0.00           C  
+ATOM    484  CA  UNK A 484      56.600  27.100   3.400  1.00  0.00           C  
+ATOM    485  CA  UNK A 485      55.200  29.800   1.200  1.00  0.00           C  
+ATOM    486  CA  UNK A 486      51.800  29.600  -0.500  1.00  0.00           C  
+ATOM    487  CA  UNK A 487      48.400  31.100   0.100  1.00  0.00           C  
+ATOM    488  CA  UNK A 488      44.700  30.100   0.600  1.00  0.00           C  
+ATOM    489  CA  UNK A 489      41.700  32.500   0.400  1.00  0.00           C  
+ATOM    490  CA  UNK A 490      41.300  36.200   1.000  1.00  0.00           C  
+ATOM    491  CA  UNK A 491      43.900  38.800  -0.100  1.00  0.00           C  
+ATOM    492  CA  UNK A 492      43.900  41.200   2.900  1.00  0.00           C  
+ATOM    493  CA  UNK A 493      45.000  38.800   5.600  1.00  0.00           C  
+ATOM    494  CA  UNK A 494      47.900  37.200   3.900  1.00  0.00           C  
+ATOM    495  CA  UNK A 495      49.700  40.400   2.800  1.00  0.00           C  
+ATOM    496  CA  UNK A 496      51.000  42.100   5.900  1.00  0.00           C  
+ATOM    497  CA  UNK A 497      50.800  38.900   7.900  1.00  0.00           C  
+ATOM    498  CA  UNK A 498      53.900  38.400   5.800  1.00  0.00           C  
+ATOM    499  CA  UNK A 499      54.800  42.000   6.200  1.00  0.00           C  
+ATOM    500  CA  UNK A 500      55.400  42.300  10.000  1.00  0.00           C  
+ATOM    501  CA  UNK A 501      57.500  39.200  10.700  1.00  0.00           C  
+ATOM    502  CA  UNK A 502      60.600  39.400   8.400  1.00  0.00           C  
+ATOM    503  CA  UNK A 503      61.100  43.000   9.600  1.00  0.00           C  
+ATOM    504  CA  UNK A 504      61.200  41.900  13.200  1.00  0.00           C  
+ATOM    505  CA  UNK A 505      62.200  38.200  13.200  1.00  0.00           C  
+ATOM    506  CA  UNK A 506      65.800  37.300  12.500  1.00  0.00           C  
+ATOM    507  CA  UNK A 507      65.700  40.900  13.800  1.00  0.00           C  
+ATOM    508  CA  UNK A 508      67.100  40.900  17.300  1.00  0.00           C  
+ATOM    509  CA  UNK A 509      70.500  42.500  18.300  1.00  0.00           C  
+ATOM    510  CA  UNK A 510      71.200  46.100  19.200  1.00  0.00           C  
+ATOM    511  CA  UNK A 511      72.100  47.300  22.700  1.00  0.00           C  
+ATOM    512  CA  UNK A 512      71.900  48.800  26.200  1.00  0.00           C  
+ATOM    513  CA  UNK A 513      75.200  47.000  26.900  1.00  0.00           C  
+ATOM    514  CA  UNK A 514      74.500  43.600  28.500  1.00  0.00           C  
+TER     515      UNK A 514                                                      
+MASTER      252    0    0   17   10    0    0    6  514    1    0   40          
+END                                                                             
